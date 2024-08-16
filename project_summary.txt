@@ -1,0 +1,22 @@
+Create Student Management App.
+Need 3 types of users. 1.Admin, 2.Student, 3. Teachers.
+
+
+ADMIN MODULE:
+Admin is the superior user who can manage data.
+Admin can add subjects.
+Can list teachers.
+Schedule batches.
+Fix course fees.
+Assign teachers.
+Take reports of payments.
+
+
+STUDENT MODULE:
+Student is a guest at first. After registration gets an account in which he can enroll into a course.
+Gets data about the courses.
+
+
+TEACHER MODULE:
+Teacher also is a guest at first. Can enroll as a teacher. Pick the subject.
+
